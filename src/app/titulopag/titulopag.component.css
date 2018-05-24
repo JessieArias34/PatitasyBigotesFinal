@@ -1,0 +1,27 @@
+@media (max-width:600px){
+    .ocultar{
+        display:none;
+    }
+}
+
+.nombre{
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+    padding-bottom: 80px;
+    
+    
+}
+
+.redes{
+  padding-left: 150px;
+
+}
+
+.fondo{
+    background-image: url("../../assets/imagenes/hola.jpg");
+}
+
+.subs{
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+}

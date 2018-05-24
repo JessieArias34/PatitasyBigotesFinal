@@ -1,0 +1,14 @@
+body{
+    background-image: url("../../assets/imagenes/hola.jpg");
+}
+
+.fonditomenu{
+    background-image: url("../../assets/imagenes/fondo.jpg");
+    border-width: 0, 0, 225px, 1920px;
+}
+
+@media (min-width:1200px){
+    .ocultar{
+        display:none;
+    }
+}
