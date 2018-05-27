@@ -18,3 +18,28 @@
   main-content-inner {
     padding: 0;
   }  
+
+  .small-icon{
+    height: 30px;
+    width: 30px;
+    
+  }
+
+  .negocios-home{
+    height: 1500px;
+    width: 100%;
+  }
+
+  .card{
+    margin-left: 65px;
+  }
+
+  .cuadritos{
+    margin-bottom: 50px;
+    padding-top: 50px;
+    border: 1px solid rgb(212, 182, 182);
+  }
+
+  .fondo{
+    background-color: rgb(160, 156, 150);
+  }
