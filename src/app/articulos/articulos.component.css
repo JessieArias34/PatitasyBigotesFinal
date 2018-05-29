@@ -1,9 +1,4 @@
-#Bienvenidos{
-    text-align:center;
-   padding-top: 20px;
-    font-family: 'Oleo Script', cursive;
-   
-  }
+
 
   .texto{
     font-family: 'Didact Gothic', sans-serif;
@@ -26,8 +21,9 @@
   }
 
   .negocios-home{
-    height: 1500px;
+    height: 2500px;
     width: 100%;
+    background-color: rgb(185, 157, 157);
   }
 
   .card{
@@ -41,5 +37,19 @@
   }
 
   .fondo{
-    background-color: rgb(160, 156, 150);
+    background-color: rgb(128, 98, 109);
+  }
+
+  .cuadrito2{
+    margin-bottom: 40px;
+    border-color: none;
+    
+    
+  }
+
+
+  .posters{
+    box-shadow:3px 3px 10px #000000;
+    border-radius: 5px;
+   
   }

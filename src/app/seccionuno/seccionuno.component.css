@@ -1,37 +1,45 @@
-.container-fluid{
-    background-color: black;
-    width: 100%;
-    height: 800px;
-    position: relative;
-}
 
 
-.text-block {
-    position: absolute;
-    bottom: 50px;
-    right: 50px;
-    background-color: black;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
+.temitas{
+    border-radius: 50%;
+    margin-left: 20px;
     
+   
     
 }
 
-.foto{
-    margin-top: 30px;
-    width: 50px;
-    padding-left: 15px;
-}
-
-.texto{
-    color: beige;
-}
-
-.caja-texto{
-    background-color: rgb(88, 82, 82);
-    padding-top: 20px;
-    margin-top: 40px;
-    margin-right: 40px;
+h2{
    
 }
+
+.small-icon{
+    height: 30px;
+    width: 30px;
+    
+    
+  }
+
+  
+
+
+.Bienvenidos{
+    text-align:center;
+    background-color:rgb(185, 157, 157);  
+    font-family: 'Oleo Script', cursive;    
+    border-radius: 4px;
+    
+   
+  }
+
+  .texto{
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 1.2rem;
+  }
+
+  .contenedor{
+    
+    background-color:rgb(185, 157, 157);
+     height: 350px;
+  }
+
+  

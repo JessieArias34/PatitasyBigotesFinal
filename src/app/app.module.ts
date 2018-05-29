@@ -7,6 +7,8 @@ import { CarruselComponent } from './carrusel/carrusel.component';
 import { TitulopagComponent } from './titulopag/titulopag.component';
 import { ArticulosComponent } from './articulos/articulos.component';
 import { SeccionunoComponent } from './seccionuno/seccionuno.component';
+import { FooterComponent } from './footer/footer.component';
+
 
 @NgModule({
   declarations: [
@@ -15,7 +17,9 @@ import { SeccionunoComponent } from './seccionuno/seccionuno.component';
     CarruselComponent,
     TitulopagComponent,
     ArticulosComponent,
-    SeccionunoComponent
+    SeccionunoComponent,
+    FooterComponent,
+    
   ],
   imports: [
     BrowserModule
