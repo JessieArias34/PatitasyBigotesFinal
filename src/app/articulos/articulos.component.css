@@ -23,7 +23,8 @@
   .negocios-home{
     height: 2500px;
     width: 100%;
-    background-color: rgb(185, 157, 157);
+    background-image: url(../../assets/imagenes/pattern.png);
+    padding-top: 20px;
   }
 
   .card{
