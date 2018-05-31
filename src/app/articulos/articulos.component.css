@@ -22,7 +22,7 @@ main-content-inner {
   height: 2500px;
   width: 100%;
   background-image: url(../../assets/imagenes/pattern.png);
-  margin-top: 20px;
+ padding-top: 50px;
 }
 
 .card{
@@ -51,4 +51,11 @@ main-content-inner {
   box-shadow:3px 3px 10px #000000;
   border-radius: 5px;
  
+}
+
+
+.fuente{
+  font-family: 'Cabin', sans-serif;
+  font-size: 1rem;
+  color: rgb(253, 253, 253);
 }

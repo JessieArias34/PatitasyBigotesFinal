@@ -1,8 +1,8 @@
 .container-fluid{
   background-color: rgb(65, 49, 60);
   height: 600px;
-  font-family: cursive;
-  color: rgb(236, 149, 210);
+  font-family: 'Kreon', serif;
+  color: rgb(184, 131, 169);
 }
 
 .icon-bar {
@@ -58,6 +58,10 @@ font-size: 30px;
 
 .dejanos{
 margin-left: 60px;
+font-family: 'Kreon', serif;
+  color: rgb(184, 131, 169);
+  font-size: 1.8rem;
+
 }
 
 .logotipo{
@@ -92,4 +96,11 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #d8bfbf;
   padding: 20px;
+}
+
+.ponte{
+  font-family: 'Kreon', serif;
+  color: rgb(184, 131, 169);
+  font-size: 1.8rem;
+  margin-left: 40px;
 }

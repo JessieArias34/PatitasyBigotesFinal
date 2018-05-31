@@ -9,6 +9,7 @@ import { ArticulosComponent } from './articulos/articulos.component';
 import { SeccionunoComponent } from './seccionuno/seccionuno.component';
 import { FooterComponent } from './footer/footer.component';
 import { MapaComponent } from './mapa/mapa.component';
+import { SecciondosComponent } from './secciondos/secciondos.component';
 
 
 @NgModule({
@@ -21,6 +22,7 @@ import { MapaComponent } from './mapa/mapa.component';
     SeccionunoComponent,
     FooterComponent,
     MapaComponent,
+    SecciondosComponent,
     
   ],
   imports: [

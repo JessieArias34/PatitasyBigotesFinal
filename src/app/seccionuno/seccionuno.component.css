@@ -1,4 +1,16 @@
 
+@media(min-width: 768px){
+  .lead{
+    margin-left: 200px;
+  }
+
+}
+
+@media(max-width: 768px){
+  .redes{
+    display: none;
+  }
+}
 
 .temitas{
     border-radius: 50%;
@@ -8,7 +20,10 @@
     
 }
 
+.redes{
+  margin-left: 80px;
 
+}
 
 .small-icon{
     height: 30px;
@@ -29,9 +44,7 @@
    
   }
 
-  .lead{
-    margin-left: 200px;
-  }
+  
 
   .texto{
     font-family: 'Didact Gothic', sans-serif;
