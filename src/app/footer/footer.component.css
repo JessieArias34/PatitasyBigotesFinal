@@ -1,57 +1,106 @@
 .container-fluid{
-    background-color: rgb(65, 49, 60);
-    height: 300px;
-    font-family: fantasy;
-    color: navajowhite;
+  background-color: rgb(65, 49, 60);
+  height: 600px;
+  font-family: cursive;
+  color: rgb(236, 149, 210);
 }
 
 .icon-bar {
-  position: fixed;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+position: fixed;
+top: 50%;
+-webkit-transform: translateY(-50%);
+-ms-transform: translateY(-50%);
+transform: translateY(-50%);
 }
 
 .icon-bar a {
-  display: block;
-  text-align: center;
-  padding: 16px;
-  transition: all 0.3s ease;
-  color: white;
-  font-size: 20px;
+display: block;
+text-align: center;
+padding: 16px;
+transition: all 0.3s ease;
+color: white;
+font-size: 20px;
 }
 
 .icon-bar a:hover {
-    background-color: #000;
+  background-color: #000;
 }
 
 .facebook {
-  background: #3B5998;
-  color: white;
+background: #3B5998;
+color: white;
 }
 
 .twitter {
-  background: #55ACEE;
-  color: white;
+background: #55ACEE;
+color: white;
 }
 
 .google {
-  background: #dd4b39;
-  color: white;
+background: #dd4b39;
+color: white;
 }
 
 .linkedin {
-  background: #007bb5;
-  color: white;
+background: #007bb5;
+color: white;
 }
 
 .youtube {
-  background: #bb0000;
-  color: white;
+background: #bb0000;
+color: white;
 }
 
 .content {
-  margin-left: 75px;
-  font-size: 30px;
+margin-left: 75px;
+font-size: 30px;
+}
+
+.dejanos{
+margin-left: 60px;
+}
+
+.logotipo{
+margin-top: 50px;
+border-radius: 20px;
+margin-left: 120px;
+}
+
+
+
+
+
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  height: 10px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #d8bfbf;
+  padding: 20px;
 }

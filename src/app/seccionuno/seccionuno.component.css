@@ -8,9 +8,7 @@
     
 }
 
-h2{
-   
-}
+
 
 .small-icon{
     height: 30px;
@@ -22,23 +20,28 @@ h2{
   
 
 
-.Bienvenidos{
-    text-align:center;
-    background-color:rgb(185, 157, 157);  
+.fondito{
+   
+    background-image: url(../../assets/imagenes/pattern.png);
     font-family: 'Oleo Script', cursive;    
-    border-radius: 4px;
+    
     
    
+  }
+
+  .lead{
+    margin-left: 200px;
   }
 
   .texto{
     font-family: 'Didact Gothic', sans-serif;
     font-size: 1.2rem;
+  
   }
 
   .contenedor{
     
-    background-color:rgb(185, 157, 157);
+    background-color:rgb(235, 221, 221);
      height: 350px;
   }
 
