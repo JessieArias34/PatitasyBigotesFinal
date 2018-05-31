@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .texto{
   font-family: 'Didact Gothic', sans-serif;
   font-size: 1.2rem;
@@ -52,3 +53,61 @@ main-content-inner {
   border-radius: 5px;
  
 }
+=======
+
+
+  .texto{
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 1.2rem;
+  }
+
+  .articulo{
+    font-size: .8rem;
+
+  }
+
+  main-content-inner {
+    padding: 0;
+  }  
+
+  .small-icon{
+    height: 30px;
+    width: 30px;
+    
+  }
+
+  .negocios-home{
+    height: 2500px;
+    width: 100%;
+    background-image: url(../../assets/imagenes/pattern.png);
+    padding-top: 20px;
+  }
+
+  .card{
+    margin-left: 65px;
+  }
+
+  .cuadritos{
+    margin-bottom: 50px;
+    padding-top: 50px;
+    border: 1px solid rgb(212, 182, 182);
+  }
+
+  .fondo{
+    background-color: rgb(128, 98, 109);
+  }
+
+  .cuadrito2{
+    margin-bottom: 40px;
+    border-color: none;
+    
+    
+  }
+
+
+  .posters{
+    box-shadow:3px 3px 10px #000000;
+    border-radius: 5px;
+   
+  }
+>>>>>>> 63a41d460dee44b27bccf5c279f617c209e9e660
