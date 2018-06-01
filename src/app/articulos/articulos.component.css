@@ -3,6 +3,11 @@
   font-size: 1.2rem;
 }
 
+@media(max-width: 768px){
+  .hide{
+    display: none;
+  }
+}
 .articulo{
   font-size: .8rem;
 
