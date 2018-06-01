@@ -2,6 +2,32 @@
     background-image: url(../../assets/imagenes/pattern.png);
 }
 
+.patitas{
+    margin-left: 670px;
+    margin-bottom: 100px;
+    
+   
+}
+
+
+
+
 .botonsito{
     background-color: rgb(161, 35, 119);
 }
+
+.cuadritos{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+
+.cuadrito1{
+    margin-left: 300px;
+    
+}
+
+cuadrito2{
+    margin-right: 300px;
+    
+}
+
