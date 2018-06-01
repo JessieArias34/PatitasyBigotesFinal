@@ -10,6 +10,7 @@ import { SeccionunoComponent } from './seccionuno/seccionuno.component';
 import { FooterComponent } from './footer/footer.component';
 import { MapaComponent } from './mapa/mapa.component';
 import { SecciondosComponent } from './secciondos/secciondos.component';
+import { GaleriaComponent } from './galeria/galeria.component';
 
 
 @NgModule({
@@ -23,6 +24,7 @@ import { SecciondosComponent } from './secciondos/secciondos.component';
     FooterComponent,
     MapaComponent,
     SecciondosComponent,
+    GaleriaComponent,
     
   ],
   imports: [
