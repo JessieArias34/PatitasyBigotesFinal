@@ -24,7 +24,7 @@ main-content-inner {
 }
 
 .negocios-home{
-  height: 2500px;
+  height: 2050px;
   width: 100%;
   background-image: url(../../assets/imagenes/pattern.png);
  padding-top: 50px;
@@ -37,7 +37,7 @@ main-content-inner {
 .cuadritos{
   margin-bottom: 50px;
   padding-top: 50px;
-  border: 1px solid rgb(212, 182, 182);
+  
 }
 
 .fondo{
