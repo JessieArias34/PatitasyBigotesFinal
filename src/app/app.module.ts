@@ -13,6 +13,7 @@ import { SecciondosComponent } from './secciondos/secciondos.component';
 import { GaleriaComponent } from './galeria/galeria.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,6 +26,7 @@ import { GaleriaComponent } from './galeria/galeria.component';
     MapaComponent,
     SecciondosComponent,
     GaleriaComponent,
+    
     
   ],
   imports: [
