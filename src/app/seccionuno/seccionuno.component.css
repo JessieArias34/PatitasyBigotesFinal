@@ -6,9 +6,15 @@
 
 }
 
-@media(max-width: 768px){
-  .redes{
+@media(max-width: 576px){
+  .imag{
     display: none;
+  }
+}
+
+@media (max-width: 768px){
+  .imag{
+      display: none;
   }
 }
 
@@ -23,6 +29,11 @@
 .redes{
   margin-left: 80px;
 
+}
+
+imag{
+  height: 50px;
+  width: 50px;
 }
 
 .small-icon{

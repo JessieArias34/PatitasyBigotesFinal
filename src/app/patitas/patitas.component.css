@@ -1,14 +1,24 @@
-body{
-    background-image: url("../../assets/imagenes/hola.jpg");
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
+.navbar{
+    padding: .8rem;
+    font-family: 'Poppins', sans-serif;
 }
 
-.fonditomenu{
-    background-image: url("../../assets/imagenes/fondo.jpg");
-    border-width: 0, 0, 225px, 1920px;
+.logo{
+    height: 50px;
+    width: 50px;
 }
 
-@media (min-width:1200px){
-    .ocultar{
-        display:none;
-    }
+.navbar-nav li{
+    padding-right: 20px;
+
+}
+
+.nav-link{
+    font-size: 1.1em !important;
 }

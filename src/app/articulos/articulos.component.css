@@ -1,72 +1,93 @@
-.texto{
-  font-family: 'Didact Gothic', sans-serif;
-  font-size: 1.2rem;
+body {
+  background-color:  rgb(207, 146, 177);
 }
-
-@media(max-width: 768px){
-  .hide{
-    display: none;
-  }
-}
-.articulo{
-  font-size: .8rem;
-
-}
-
-main-content-inner {
-  padding: 0;
-}  
-
-.small-icon{
-  height: 30px;
-  width: 30px;
-  
-}
-
-.negocios-home{
-  height: 2050px;
-  width: 100%;
-  background-image: url(../../assets/imagenes/pattern.png);
- padding-top: 50px;
-}
-
-.card{
-  margin-left: 65px;
-}
-
-.cuadritos{
-  margin-bottom: 50px;
-  padding-top: 50px;
-  
-}
-
-.fondo{
-  background-color: rgb(128, 98, 109);
-}
-
-.cuadrito2{
-  margin-bottom: 40px;
-  border-color: none;
-  
-  
-}
-
-
-.posters{
-  box-shadow:3px 3px 10px #000000;
-  border-radius: 5px;
+.title {
  
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+     
+}
+.card {
+    font-size: 1em;
+    overflow: hidden;
+    padding: 5;
+    border: none;
+    border-radius: .28571429rem;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    margin-top:20px;
+}
+
+.carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: #404040;
+}
+.carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: #404040;
+}
+.carousel-indicators .active {
+    background-color: white;
+    max-width: 12px;
+    margin: 0 3px;
+    height: 12px;
+}
+.carousel-control-prev-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+  
+
+.btn {
+  margin-top: auto;
+}
+
+.d-block{
+  width: 550px;
+  height: 450px;
+}
+
+.fondito{
+  background-image: url(../../assets/imagenes/pattern.png);
+ 
+  
+}
+
+.d-block img{
+  height: 40px;
+  width: 50px;
+
 }
 
 
-.fuente {
-  font-family: 'Cabin', sans-serif;
-  font-size: 1rem;
-  color: rgb(253, 253, 253);
+.caja{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
 }
 
-.fuente a{
-  text-decoration: none;
-  color: rgb(118, 199, 202);
-  text-decoration: underline;
+
+.colorsito{
+  background-color: rgb(182, 116, 147);
+  filter: alpha(opacity=60);
+}
+
+.botonsito{
+  background-color: rgb(165, 43, 63);
 }
